@@ -1,2 +1,3 @@
 # authWithSupaBase
-This will the repository working with Supabase's authentication and its providing database.  
+- Secure user's management and authentication with Supabase
+- Powerful data access and management tooling on top of PostgreSQL with Supabase
